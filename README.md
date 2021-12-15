@@ -1,2 +1,2 @@
 # Charts-Project
-Testing JavaScript Charts packges
+Testing JavaScript Charts packages
